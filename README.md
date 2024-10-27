@@ -1,1 +1,3 @@
-# vegan_meal_planner
+# Installation instructions
+npm install
+npm run dev
